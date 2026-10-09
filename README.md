@@ -4,3 +4,4 @@ Product photos for the Kripto Car WhatsApp / Meta catalog. Meta loads these by U
 
 - `galio/` – Galio GFX products, named by Galio part number (e.g. `GLCM-015.jpg`)
 - `dhc/` – DHC infotainment players, named by DHC model code or `DHC-<model>`; `-car.jpg` = in-car photo
+- `misc/` – one-off products (Cropex Rodoban, Keysafe AI Box), named by catalog id
