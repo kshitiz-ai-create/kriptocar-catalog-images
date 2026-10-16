@@ -6,3 +6,4 @@ Product photos for the Kripto Car WhatsApp / Meta catalog. Meta loads these by U
 - `dhc/` – DHC infotainment players, named by DHC model code or `DHC-<model>`; `-car.jpg` = in-car photo
 - `misc/` – one-off products (Cropex Rodoban, Keysafe AI Box), named by catalog id
 - `kripto/` – Kripto Car's own services (e.g. rat mesh), named by catalog id
+- `infotainment/` – multi-brand Android players (Blaupunkt, Onkyo, Abbtron…), named by catalog id
